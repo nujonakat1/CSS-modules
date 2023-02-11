@@ -1,10 +1,15 @@
-<h1>環境構築の練習</h1>
+<h1>CSSの練習(2種類)</h1>
 
-<h2>YouTube動画を参考に作ったアイコン</h2>
+<h3>①</h3>
 
-<img width="1792" alt="スクリーンショット 2023-01-12 23 27 42" src="https://user-images.githubusercontent.com/119907964/212327736-ef159109-c82a-4399-948c-633f6b31ae10.png">
-
-<h3>動画タイトル：CSS Pulse Animation | CSS Animation Tutorial</h3>
+<a href="https://user-images.githubusercontent.com/119907964/218263954-9bbb346a-556a-484b-8a96-ca04cfa239f8.mov">リンク</a>
 
 <h3>引用したアイコンのサイト</h3>
 <a href="https://cdnjs.com/libraries/font-awesome">Font Awesome</a>
+
+<h3>②</h3>
+
+<a href="https://user-images.githubusercontent.com/119907964/218264024-4ad34f85-a56e-46a7-8c68-1b425b414fdc.mov">リンク</a>
+
+<h3>引用したアイコンのサイト</h3>
+<a href="https://ionic.io/ionicons">ionicons</a>
