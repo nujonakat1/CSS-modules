@@ -17,5 +17,42 @@ body{
     right: 0;
     top: 0;
     bottom: 0;
-    animation spin1 3s infinite;
+    animation: spin1 3s infinite;
+}
+
+@keyframes spin1 {
+    50% {
+        transform: rotate(360deg);
+    }
+}
+
+.loader::before,
+.loader::after {
+    position: absolute;
+    content: "";
+    height: 4em;
+    width: 4em;
+    border: 0.3em solid #ffffff;
+    top: -0.3em;
+    left: -0.3em;
+}
+
+.loader::before {
+    animation: spin2 3s infinite;
+}
+
+@keyframes spin2 {
+    50% {
+        transform: rotate(30deg);
+    }
+}
+
+.loader::after {
+    animation: spin3 3s infinite;
+}
+
+@keyframes spin3 {
+    50% {
+        transform: rotate(60deg);
+    }
 }
